@@ -1,7 +1,6 @@
 def main
   # we need an array to store our data
   # how do we assign an array to a variable?
-  input = []
   loop do
     # continue to ask for a number
     # challenge: how do I check that may input is an integer and not a string?
